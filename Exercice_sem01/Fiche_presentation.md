@@ -1,6 +1,6 @@
 # Luiz Felippe Sousa 
 
-<img src= "https://github.com/user-attachments/assets/69d6a2b9-5447-414b-99da-efda4cb8beca">
+![photo](Image.jpg)
 Selfie de moi-même 
 
 ## **Intérêts dans le multimedia** 
