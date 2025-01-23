@@ -1,6 +1,6 @@
 # Luiz Felippe Sousa 
 
-![photo](/medias/Image.jpg)
+![photo](medias/Image.jpg)
 Selfie de moi-même 
 
 ## **Intérêts dans le multimedia** 
