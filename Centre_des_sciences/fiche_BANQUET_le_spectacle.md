@@ -1,3 +1,3 @@
 # Exposition interactive Banquet
 
-![photo](Devant_CDS)
+![photo](Devant_CDS.jpg)
