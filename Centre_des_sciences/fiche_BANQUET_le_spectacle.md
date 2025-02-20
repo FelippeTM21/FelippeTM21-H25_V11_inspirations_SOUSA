@@ -14,4 +14,4 @@ Le premier dispositif présente deux un écran, un grand, et un dans un bol qui 
 Photos des Boutons
 
 ![photo](medias/grande_installation.jpg)
-Le Banquet inclue aussi un grande installation immersive multimédia autour d'une table de souper qui inclue plusieurs projecteurs et grand écrans qui diffusent de graphismes sur les murs et la table. Tout cela est accompagné de haut-parleurs pour integrer du son dans le tout pour assurer l'immersion. La pièce complète se retrouve recouverte de différents médias ce qui fait une très bonne expérience multimédia immersive.
+Le Banquet inclue aussi un grande installation immersive multimédia autour d'une table de souper qui inclue plusieurs projecteurs et grand écrans qui diffusent de graphismes sur les murs et la table. La salle est éclairé par des batons lumineux colorés qui changent de couleur au court de l'expérience. Tout cela est accompagné de haut-parleurs pour integrer du son dans le tout pour assurer l'immersion. La pièce complète se retrouve recouverte de différents médias ce qui fait une très bonne expérience multimédia immersive.
