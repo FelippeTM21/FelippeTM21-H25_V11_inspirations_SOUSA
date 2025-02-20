@@ -9,3 +9,4 @@ Le Banquet est une experience interactive multimédia au Centre des sciences au 
 
 ![photo](medias/personnage_dans_bol.jpg)
 Le premier dispositif présente deux un écran, un grand, et un dans un bol qui fait usage de la perspective. Une vidé instructive s'active avec l'intéractivité du visiteur. Les écrans sont accompagnés par deux haut-parleurs cachés qui accompagnent les deux écrans afin d'assurer un expérience complète pour tous. On peut aussi y trouver un bouton pour recommencer la vidéo. 
+![photo](medias/boutons.jpg)
