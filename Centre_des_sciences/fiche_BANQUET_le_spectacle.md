@@ -15,3 +15,5 @@ Photos des Boutons
 
 ![photo](medias/grande_installation.jpg)
 Le Banquet inclue aussi un grande installation immersive multimédia autour d'une table de souper qui inclue plusieurs projecteurs et grand écrans qui diffusent de graphismes sur les murs et la table. La salle est éclairé par des batons lumineux colorés qui changent de couleur au court de l'expérience. Tout cela est accompagné de haut-parleurs pour integrer du son dans le tout pour assurer l'immersion. La pièce complète se retrouve recouverte de différents médias ce qui fait une très bonne expérience multimédia immersive.
+
+Personnellement, j'ai trouvé mon expérience très interéssante mais ce n'est pas pour moi, le publique cible est plus pour les enfants ou les familles. Cependant, en tant qu'étudiant en intégration multimédia, j'ai trouver le travail effectué sur les installations super bien réussi et créatif.  
