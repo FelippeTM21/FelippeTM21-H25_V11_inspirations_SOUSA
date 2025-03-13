@@ -28,6 +28,10 @@ Luminatura est un projet qui combine l'art et la technologie. La natures et des 
 ![photo](medias/luminatura_schema.jpg)
 Simulation du résultat final
 
+## **Description**
+
+C'est une bonne simulation qui présente bien la vision de l'équipe. C'est clair et l'équipe sont dans le bon chemin.
+
 ![photo](medias/luminatura_instal.jpg)
 
 PLaque métallique qui sert de capteur capacitif qui détecte la conductivité des mains.
@@ -43,3 +47,11 @@ Photo de l'équipe derrière le projet Etheria
 Un installation interactive en pixel qui permet au joueurs de découvrir un univers virtuel avec une jouabilité unique.
 
 ![photo](medias/etheria.jpg)
+Le dispositf
+
+![photo](medias/etheria_schema.jpg)
+Schema du résultat final
+
+## **Description**
+
+Bon schéma cependant il manque un peu de détails. Par exemple, à partir de ce schema on ne peut pas comprendre que le jeu est projeté du dessus par un projecteur, on ne peut pas comprendre qu'il y a des petites cannes qu'on doit tenir pour jouer, etc.
