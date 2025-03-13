@@ -28,7 +28,7 @@ Luminatura est un projet qui combine l'art et la technologie. La natures et des 
 ![photo](medias/luminatura_schema.jpg)
 Simulation du résultat final
 
-## **Description**
+## **Simulation**
 
 C'est une bonne simulation qui présente bien la vision de l'équipe. C'est clair et l'équipe sont dans le bon chemin.
 
@@ -49,9 +49,23 @@ Un installation interactive en pixel qui permet au joueurs de découvrir un univ
 ![photo](medias/etheria.jpg)
 Le dispositf
 
+## **Schéma**
+
 ![photo](medias/etheria_schema.jpg)
 Schema du résultat final
 
+Bon schéma cependant il manque un peu de détails. Par exemple, à partir de ce schema on ne peut pas comprendre que le jeu est projeté du dessus par un projecteur, on ne peut pas comprendre qu'il y a des petites cannes qu'on doit tenir pour jouer, etc.
+
+# Arcadia
+
+![photo](medias/ARCADIA.jpg)
+Photo du projet Arcadia
+
 ## **Description**
 
-Bon schéma cependant il manque un peu de détails. Par exemple, à partir de ce schema on ne peut pas comprendre que le jeu est projeté du dessus par un projecteur, on ne peut pas comprendre qu'il y a des petites cannes qu'on doit tenir pour jouer, etc.
+Arcadia est un dispositif interactif qui a pour but de simuler les jeux d'arcade rétro et d'offrir une expérience nostalgique et amusante.
+
+## **Schéma**
+
+![photo](medias_)
+
