@@ -67,5 +67,21 @@ Arcadia est un dispositif interactif qui a pour but de simuler les jeux d'arcade
 
 ## **Schéma**
 
-![photo](medias_)
+![photo](medias/arcadia_schema.png)
+
+Le schema démontre biien le fonctionnement de l'installation cependant il manque peut-être de support visuel du résultat final voulu. 
+
+## **Prismatica**
+
+![photo](medias/prismatica.jpg)
+Photo du projet prismatica
+
+## **Description**
+
+Dispositif qui transforme le dessin de l'utilisateur en un graphisme visuel avec du son et le projette sur un tableau blanc.
+
+## **Schéma**
+
+![photo](medias)
+
 
