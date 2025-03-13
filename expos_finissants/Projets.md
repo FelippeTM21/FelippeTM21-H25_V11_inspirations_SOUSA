@@ -15,7 +15,7 @@ Photo de l'installation du Grand studio le 25 février 2025
 
 ## **Les projets**
 
-Les finissants dans la technique d'intégration multimédia font un projet d'oeuvre interactive qu'ils vont mettre en exposition à la fin de session. Nous avons visités leurs installations en progrès le 25 février 2025.
+Les finissants dans la technique d'intégration multimédia font un projet d'oeuvre interactive qu'ils vont mettre en exposition à la fin de session. Nous avons visités leurs installations en progrès le 25 février 2025. Ce sont des projets d'équipe qui se fait en 8 semaines ou ils doivent mettre en expositions leurs expertises acquis au courant de leur parcours collégiale.
 
 # Luminatura
 
