@@ -25,10 +25,10 @@ Les finissants dans la technique d'intégration multimédia font un projet d'oeu
 
 Luminatura est un projet qui combine l'art et la technologie. La natures et des lanternes en décorations qui changent de couleur et déclenche la lumière au toucher de la main. Le tout fonctionne à partir de trois plaques métalliques qui sert de capteur capacitif qui détecte la conductivité des mains, allume les deux lampes et activent des sons sur un haut parleur accroché sur le toit. Le son est toujours différent en fonction de la capacitance des mains, cela fut surement fait à partir d'un logiciel de programmation qui choisit entre différents sons déja fait pour en jouer quelques uns en même temps mais de manière aléatoire à chaque fois. Dèrriere tout cela, un projecteur diffuse sur le grand mur un graphisme de couleurs qui bouge fait à partir du logiciel TouchDesigner, ce dernier est aussi différent à chaque toucher de mains.
 
+## **Simulation**
+
 ![photo](medias/luminatura_schema.jpg)
 Simulation du résultat final
-
-## **Simulation**
 
 C'est une bonne simulation qui présente bien la vision de l'équipe. C'est clair et l'équipe sont dans le bon chemin.
 
