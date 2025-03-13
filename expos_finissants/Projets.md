@@ -15,7 +15,7 @@ Photo de l'installation du Grand studio le 25 février 2025
 
 ## **Les projets**
 
-Les finissants dans la technique d'intégration multimédia font un projet d'oeuvre interactive qu'ils vont mettre en exposition à la fin de session. Nous avons visités leurs installations en progrès le 25 février 2025. Ce sont des projets d'équipe qui se font en 8 semaines ou ils doivent mettre en expositions leurs expertises acquis au courant de leur parcours collégiale.
+Les finissants dans la technique d'intégration multimédia font un projet d'oeuvre interactive qu'ils vont mettre en exposition à la fin de session. Tous ces oeuvres font partis de l'exposition Résonance. Nous avons visités leurs installations en progrès le 25 février 2025. Ce sont des projets d'équipe qui se font en 8 semaines ou ils doivent mettre en expositions leurs expertises acquis au courant de leur parcours collégiale.
 
 # Luminatura
 
@@ -59,11 +59,11 @@ Bon schéma cependant il manque un peu de détails. Par exemple, à partir de ce
 # Arcadia
 
 ![photo](medias/ARCADIA.jpg)
-Photo du projet Arcadia
+Photo de l'installation en cours de Arcadia
 
 ## **Description**
 
-Arcadia est un dispositif interactif qui a pour but de simuler les jeux d'arcade rétro et d'offrir une expérience nostalgique et amusante.
+Arcadia est une oeuvre interactif qui a pour but de simuler les jeux d'arcade rétro et d'offrir une expérience nostalgique et amusante.
 
 ## **Schéma**
 
@@ -74,14 +74,16 @@ Le schema démontre biien le fonctionnement de l'installation cependant il manqu
 ## **Prismatica**
 
 ![photo](medias/prismatica.jpg)
-Photo du projet prismatica
+Photo de l'installation en cours de prismatica
 
 ## **Description**
 
-Dispositif qui transforme le dessin de l'utilisateur en un graphisme visuel avec du son et le projette sur un tableau blanc.
+Oeuvre qui transforme le dessin de l'utilisateur en un graphisme visuel avec du son et le projette sur un tableau blanc.
 
 ## **Schéma**
 
-![photo](medias)
+![photo](medias/prismatica_schema.png)
+
+
 
 
