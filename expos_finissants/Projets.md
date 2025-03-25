@@ -82,19 +82,6 @@ Oeuvre qui transforme le dessin de l'utilisateur en un graphisme visuel avec du 
 
 ![photo](medias/prismatica_schema.png)
 
-## **CON-DU8**
-
-![photo](medias/CON_DU8.jpg)
-Photo de CON-DU8 en cours de création
-
-## **Description**
-
-CON_DU8 est une jeu de course immersive qui combine l'exercie au jeux vidéos dans une expérience intense et divertissante. Je me suis senti super immersé dans leur dispositif. La jouabilité est l'une des plus cool que j'ai vu et c'est un dispositif qui réussi avec excellence à épaté ces uttilisateurs. 
-
-## **Schéma**
-
-![photo](medias/plantation.webp)
-
 ## **Fuga**
 
 ![photo](medias/fuga_team.jpg)
@@ -106,9 +93,21 @@ Installation interactive qui permet de controler le 3D d'une arbre et de créer 
 
 ## **Schéma**
 
-![Photo](medias/)
+![Photo](medias/plantation-side.png)
 
 ## **Internature**
+
+![photo](medias/intnat_ext.jpg)
+
+## **Description**
+
+Internature est une installation immersive qui présente un tunnel qui t'englobe dans des graphismes émerveillant à la rotation d'une balle situé au centre du tunnel. Je me suis senti submergé dans la création de cette équipe mais je ne ressentais pas autant l'intéractivité.
+
+## **Schéma**
+
+![photo](medias/plantation_serre_3d.jpg)
+
+
 
 
 
