@@ -5,12 +5,12 @@
 Photo de l'installation du Grand studio le 25 février 2025
 
 ## **Ordre de préférence**
-1. Internature
+1. CON-DU8
 2. Luminatura
 3. Arcadia
 4. Etheria
 5. Prismatica
-6. C0NDU8
+6. Internature
 7. FUGA
 
 ## **Les projets**
@@ -93,7 +93,26 @@ CON_DU8 est une jeu de course immersive qui combine l'exercie au jeux vidéos da
 
 ## **Schéma**
 
-![photo](medias/)
+![photo](medias/plantation.webp)
+
+## **Fuga**
+
+![photo](medias/fuga_team.jpg)
+Équipe Fuga
+
+## **Description**
+
+Installation interactive qui permet de controler le 3D d'une arbre et de créer ses propre oeuvres facilement et rapidement. C'est une installation bien réussi et intéréssante cependant elle ne m'a pas toucher plus que ça, comparé aux autres oeuvres, je ne voyait rien de spécial a celle-ci. Cependant je reconnais que le travail effectuer par l'équipe est efficace et impressionante.
+
+## **Schéma**
+
+![Photo](medias/)
+
+## **Internature**
+
+
+
+
 
 
 
