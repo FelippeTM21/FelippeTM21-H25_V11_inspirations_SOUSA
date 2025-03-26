@@ -21,6 +21,10 @@ La disposition de l'expérience C0N-DU8 peut semble complexe, hélas elle reste 
 
 ![photo](medias/plantation.webp)
 
+Photo du schéma réalisé par l'équipe
+
+## **Résultat finale**<
+
 
 
 
