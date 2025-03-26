@@ -23,9 +23,8 @@ La disposition de l'expérience C0N-DU8 peut semble complexe, hélas elle reste 
 
 Photo du schéma réalisé par l'équipe
 
-## **Résultat finale**<
+## **Résultat finale**
 
-
-
+https://github.com/FelippeTM21/FelippeTM21-H25_V11_inspirations_SOUSA/blob/main/expos_finissants/medias/c0n_du8_video.mov
 
 Je me suis senti super immersé dans leur dispositif. La jouabilité est l'une des plus cool que j'ai vu et c'est un dispositif qui réussi avec excellence à épaté ces uttilisateurs.
