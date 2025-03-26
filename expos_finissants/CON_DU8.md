@@ -1,7 +1,7 @@
 ## **CON-DU8**
 
 ![photo](medias/titre_c0ndu8.png)
-Logo condu8
+Logo C0NDU8 réalisé par l'équipe derrière le projet
 
 ## **Description**
 
@@ -24,6 +24,13 @@ La disposition de l'expérience C0N-DU8 peut sembler complexe, hélas elle reste
 ![photo](medias/plantation.webp)
 
 Photo du schéma réalisé par l'équipe
+
+## **Résultat final**
+
+ | JEU FINAL | KINECT | LOGICIEL |
+| ----------- | ----------- | ----------- |
+|![JEU FINAL](medias/condu8_final.jpg)|![KINECT](medias/condu8_kinect.jpg)|![LOGICIEL](medias/condu8_logiciel.jpg)|
+Photos de l'installation final
 
 ## **Expérience vécue**
 
