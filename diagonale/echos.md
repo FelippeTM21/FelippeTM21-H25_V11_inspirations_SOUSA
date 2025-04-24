@@ -1,7 +1,7 @@
 # Echos: Distortions sonores et motifs géométriques
 |  |  |
 | ----------- | ----------- |
-![ARBRES](medias/echos_arbres_tissu.png) | ![photo] |
+![ARBRES](medias/echos_arbres_tissu.png) | ![photo](medias/echos_tissus_connecte.png) |
 
 # Qu'est-ce que Échos?
 Échos est une exposition temporaire réalisé par l'artiste textile et sonores RythÂ Kesselring. Cette dernière fut exposé dans un centre de diffusion et d'arts contemporains,  la galerie d'art Diagonale à Montréal. J'ai visité le centre le 28 février 2025. 
