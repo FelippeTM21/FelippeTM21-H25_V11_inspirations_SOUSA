@@ -23,7 +23,9 @@ Au plein millieu de l'exposition se trouvait quatres pots vitrés contenant une 
 
 # L'art du tissu
 
-![photo](medias/echos_tissus_connecte.png)<br>
+![photo](medias/echos_tissus_connecte.png) | ![photo](medias/echo_fils_connections.jpg)
+:-------------------------:|:-------------------------:
+
 *Photo prise par moi-même à la galerie d'art Diagonale*
 
 Au début de l'exposition on peut observer des toiles de tissus qui se connectent entre elles, il semblerait que ces fils sont des fils de connection tissés faites par l'artiste. Un mini haut parleur caché a l'arrière de la toile produit du son alors que les fils font des vibration qui passe tout le long de leur connection.  
