@@ -18,7 +18,7 @@
 ![photo](medias/echos_plantes.png)<br>
 *Photo prise par moi-même à la galerie d'art Diagonale*
 
-Au plein millieu de l'exposition se trouvait quatres pots vitrés contenant une plante chacun. Ce dernier inclu une installation sonore qui dégage un ambient de nature qui, selon les mots de l'artiste elle-même, sont des «rythmes qui émanent de différentes époque caractérisant un civilisation». Au dessus de ces plantes se trouve deux batons de lampes UV pour la croissance de la plante. Ce détail rajoute une forme d'intéractivité a l'oeuvre, une démonstration du temps qui passe, l'oeuvre n'est jamais la même à chaque visite car les plantes ne cessent de grandir. 
+Au plein millieu de l'exposition se trouvait quatres pots vitrés contenant une plante chacun. Ce dernier inclu une installation sonore contenant un haut parleur pour chaque plante, qui dégage un ambient de nature qui, selon les mots de l'artiste elle-même, sont des «rythmes qui émanent de différentes époque caractérisant un civilisation». Au dessus de ces plantes se trouve deux batons de lampes UV pour la croissance de la plante. Ce détail rajoute une forme d'intéractivité a l'oeuvre, une démonstration du temps qui passe, l'oeuvre n'est jamais la même à chaque visite car les plantes ne cessent de grandir. 
 
 # L'art du tissu
 
