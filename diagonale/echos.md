@@ -23,9 +23,13 @@ Au plein millieu de l'exposition se trouvait quatres pots vitrés contenant une 
 
 # L'art du tissu
 
-![photo](medias/echos_tissus_connecte.png) | ![photo](medias/echo_fils_connections.jpg)
+![photo](medias/echos_tissus_connecte.png) | ![photo](medias/echo_fils_connections.png)
 :-------------------------:|:-------------------------:
 
 *Photo prise par moi-même à la galerie d'art Diagonale*
 
-Au début de l'exposition on peut observer des toiles de tissus qui se connectent entre elles, il semblerait que ces fils sont des fils de connection tissés faites par l'artiste. Un mini haut parleur caché a l'arrière de la toile produit du son alors que les fils font des vibration qui passe tout le long de leur connection.  
+Au début de l'exposition, on peut observer des toiles de tissus qui se connectent entre elles, il semblerait que ces fils sont des fils de connexion tissés faits par l'artiste. Un mini haut-parleur caché à l'arrière de la toile produit du son alors que les fils font des vibrations qui passent tout le long de leur connexion. 
+
+# Appréciation
+
+Pour ma part, j'ai bien apprécié cette exposition. Malgré sa nature plutôt abstraite selon moi, j'ai trouvé l'idée mais aussi le travail et l'originalité de RythÂ Kesselring super intéressants et créatifs. L'incorporation du son ambient et les plantes sont mes parties préférées du tout, sans parler du talent indéniable de l'artiste pour l'art textile.
